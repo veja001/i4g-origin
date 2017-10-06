@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: i4g-origin-callcenter-rest
